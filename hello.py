@@ -1,1 +1,1 @@
-print("This is my first Git project!")
+print("Change made on GitHub!")
